@@ -1,0 +1,42 @@
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\julio\source\repos\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\zelix\source\repos\WpfApp clase\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
